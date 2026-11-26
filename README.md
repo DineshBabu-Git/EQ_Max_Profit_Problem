@@ -75,17 +75,3 @@ For `n` from 0 to 4, nothing can be finished in time, so the result is $0 with `
 Inputs that are empty, negative or not whole numbers show an error message instead of a result.
 
 ---
-
-## Note on Commercial Parks
-
-A Commercial Park never appears in any answer. Two Theatres take the same 10 time units, with the first finishing at 5 and the second at 10, which always earns more than one Commercial Park finishing at 10.
-
----
-
-## Files
-
-- `index.html` - page structure
-- `style.css` - styling
-- `script.js` - the algorithm and the page logic
-
----
